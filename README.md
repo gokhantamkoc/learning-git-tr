@@ -83,13 +83,52 @@
 
 # **Proje Sunumları Nasıl Olacak?**
 
-Her çalışma grubu sırayla sahneye çıkıp `git`, `html5` ve `css3` ile yaptıkları proje'lerin sunumunu gerçekleştirecekler.
+## **Sunum**
 
-## **Eğitmen'in Sunumda Beklentileri**
+Her çalışma grubu sırayla sahneye çıkıp `git`, `html5` ve `css3` ile geliştirdikleri proje'lerin sunumunu gerçekleştirecektir.
+
+Sunum giriş, gelişme, sonuç ve soru bölümü olacaktır.
+
+Herbir sunum'un süresi 1 saat olacaktır.
+
+## **Değerlendirme**
+
+Tüm sunumlar tamamlandıktan sonra İzleyiciler ve  Jüri sunumları değerlendirecektir. İzleyicilere aşağıdaki sorular sorulacaktır.
+
+|#|Soru|
+|---|---|
+|1|Çalışma grubu sunuma hazır mıydı?|
+|2|Çalışma grubu projeye hakim miydi?|
+|3|Çalışma grubu git kullanımını doğru buldunuz mu?|
+|4|Sunum'un giriş, gelişme ve sonuç bölümü düzgün hazırlanmış mı?|
+|5|Sunum dokümanı(Powerpoint sunusu, Google Slide sunusu vs.) okunabilir yapıya sahip miydi?|
+|6|Çalışma grubu kendilerine ayrılayan süreyi iyi değerlendirdiler mi?|
+|7|Firma sahibiyseniz veya firma sahibi olsaydınız çalışma grubunu işe alır mıydınız?|
+
+## **Jüri Üyeleri Kimlerden Oluşacak**
+
+Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden oluşacaktır.
+
+|Rol|Kişi Sayısı|
+|-|-|
+|Tasarımcı|2|
+|Yazılım Geliştirici|2|
+|Öğrenci|1|
+
+## **Değerlendirme Formülü**
+
+> *Sunum Puanı = İzleyici Değerlendirme Puanı * 0.45 + Jüri Değerlendirme Puanı * 0.55*
+
+## **Ödül**
+
+
+
+## **Eğitmen'in Sunumdan Beklentileri**
 
 - Sunum için Powerpoint vs. ile hazırlanan doküman okunabilir olmalıdır. 
 - Sunum giriş, gelişme ve sonuç bölümlerinden oluşmalı. İzleyici bu bölümleri rahatlıkla ayrımını anlamalıdır.
 - Sunum sırasında çalışma grubunun tüm elemanları konuşma yapmalı.
+- Sunum sırasında grubun bu projeyi severek yaptığını göstermeli
 
 # **Ders Sonunda Neler Kazanmış Olacaksınız?**
 
