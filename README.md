@@ -2,7 +2,11 @@
 
 # **Açıklama**
 
-Derste Git ile ilgili çalışmalar yapacaksınız. Eğitmen size profesyonel hayatında yaşadığı tecrübeleri örnek göstererek Git kullanımını öğretmeye çalışacaktır. Buna ek olarak, ilk profesyonel sunum tecrübenizi yaşamış olacaksınız.
+Git uygulaması proje süreçlerinde doküman revizyon takibi amacıyla kullanılmaktadır. Özellikle Bilişim sektöründe yoğun bir şekilde kullanılmaktadır.
+
+Derste Git ile ilgili çalışmalar yapacaksınız. Eğitmeniniz size ders sırasında profesyonel hayatındaki yaşadığı tecrübeleri örnek göstererek Git kullanımını öğretmeye çalışacaktır. 
+
+Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların bir araya gelerek nasıl proje oluşturup devamlılığını sağladıklarını öğreneceksiniz. Buna ek olarak, ilk profesyonel sunum tecrübenizi yaşamış olacaksınız.
 
 # **Ders Gereksinimleri**
 
@@ -91,8 +95,6 @@ Derste Git ile ilgili çalışmalar yapacaksınız. Eğitmen size profesyonel ha
 
 Her çalışma grubu sırayla sahneye çıkıp `git`, `html5` ve `css3` ile geliştirdikleri proje'lerin sunumunu gerçekleştirecektir.
 
-Sunum giriş, gelişme, sonuç ve soru bölümü olacaktır.
-
 Herbir sunum'un süresi 1 saat olacaktır.
 
 ## **Değerlendirme**
@@ -130,7 +132,7 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 ## **Eğitmen'in Sunumdan Beklentileri**
 
 - Sunum için Powerpoint vs. ile hazırlanan doküman okunabilir olmalıdır. 
-- Sunum giriş, gelişme ve sonuç bölümlerinden oluşmalı. İzleyici bu bölümleri rahatlıkla ayrımını anlamalıdır.
+- Sunum giriş, gelişme ve sonuç bölümlerinden oluşmalı.
 - Sunum sırasında çalışma grubunun tüm elemanları konuşma yapmalı.
 - Sunum sırasında grubun bu projeyi severek yaptığını göstermeli
 
