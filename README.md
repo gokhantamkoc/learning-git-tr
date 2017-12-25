@@ -1,5 +1,9 @@
 # **GIT Dersi İzlence**
 
+# **Açıklama**
+
+Derste Git ile ilgili çalışmalar yapacaksınız. Eğitmen size profesyonel hayatında yaşadığı tecrübeleri örnek göstererek Git kullanımını öğretmeye çalışacaktır. Buna ek olarak, ilk profesyonel sunum tecrübenizi yaşamış olacaksınız.
+
 # **Ders Gereksinimleri**
 
 - Temel linux bilgisi
@@ -21,7 +25,7 @@
 ### **2. Git'te Proje Oluşturma ve Değişiklik Takibi**
 
     2.1. Git'te Proje/Depo Oluşturma
-    2.2. Git'te Değişikliklerin Repository'e Kayıt Edilmesi
+    2.2. Git'te Değişikliklerin Depo'ya Kayıt Edilmesi
 
 ### **3. Git'te Değişikliklerin Yansıtılması ve Geri Alınması**
 
@@ -111,8 +115,8 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 |Rol|Kişi Sayısı|
 |-|-|
-|Tasarımcı|2|
-|Yazılım Geliştirici|2|
+|Tasarımcı|1|
+|Yazılım Geliştirici|3|
 |Öğrenci|1|
 
 ## **Değerlendirme Formülü**
