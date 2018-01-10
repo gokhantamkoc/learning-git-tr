@@ -12,90 +12,78 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 
 - Temel linux bilgisi
 - Temel text düzenleme uygulama bilgisi(sublime, notepad++ vs.)
-- Temel HTML5 ve CSS3 bilgisi (Ders projesi için gerekecektir)
+- Temel HTML5, JavaScript ve CSS3 bilgisi (Ders projesi için gerekecektir)
 - Ders'e %95 civarında katılım
 
 # **Ders Konuları**
 
-## **Git 101**
-
-### **1. Git'e Giriş**
+## **1. Git'e Giriş**
 
     1.1. Versiyon Kontrolü Nasıl Yapılır?
     1.2. Git Kurulumu nasıl yapılır?
     1.3. Git Ortamının Hazırlanması
-    1.4. Ders Projesi(*)
+    1.4. Git'te Proje/Depo Oluşturma
+    1.6. Agile/Scrum Temelleri
+    1.7. Ders Projesi(*)
 
-### **2. Git'te Proje Oluşturma ve Değişiklik Takibi**
+## **2. Git'te Proje Oluşturma ve Değişiklik Takibi**
 
-    2.1. Git'te Proje/Depo Oluşturma
-    2.2. Git'te Değişikliklerin Depo'ya Kayıt Edilmesi
+    2.1. Git'te Değişikliklerin Depo'ya Kayıt Edilmesi, Değişiklik Tarihçesi ve Değişikliklerin Geri Alınması
+    2.2. Git'te Uzaktaki Depo'lar ile Çalışılması
+    2.3. Git'te Etiketleme ve Takma Adların Kullanılması
+    2.4. Git'te Dal Kavramı
+    2.5. Git'te Basit Dallanma ve Birleştirme İşlemi
+    2.6. Git'te Dal Yönetimi
+    2.7. Git İş Akışları Oluşturma
+    2.8. Proje Ara Raporu Teslimi
 
-### **3. Git'te Değişikliklerin Yansıtılması ve Geri Alınması**
+## **3. Github**
+    
+    3.1. Github'da Yer Alan Projelere Katkıda Bulunmak
+    3.2. Github'da Proje'nin Devamlılığını Sağlamak
+    3.3. Github'da Organizasyon Oluşturma ve Yönetimi
+    3.4. Proje Ara Raporu 2 Teslimi
 
-    3.1. Git'te Commit Tarihçesinin Görüntülenmesi
-    3.2. Git'te Değişikliklerin Geri Alınması
+## **4. Proje Ön Değerlendirme**
 
-### **4. Git'te Uzaktaki Depo ile Çalışılması ve Diğer Özellikler**
+    4.1 Proje Grubu 1 - Review
+    4.2 Proje Grubu 2 - Review
+    4.3 Proje Grubu 3 - Review
+    4.4 Proje Grubu 4 - Review
+    4.5 Proje Grubu 5 - Review
 
-    4.1. Git'te Uzaktaki Depo'lar ile Çalışılması
-    4.2. Git'te Etiketleme
-    4.3. Git'te Takma Adların Kullanılması
-
-## **Git 101 - Ders Programı**
+## **Git - Ders Programı**
 
 | **Hafta** | **Tarih** | **Konu** |
 |-------|-------|------|
 |1||Git'e Giriş
 |2||Git'te Proje Oluşturma ve Değişiklik Takibi
-|3||Git'te Değişikliklerin Yansıtılması ve Geri Alınması
-|4||Git'te Uzaktaki Depo ile Çalışılması ve Diğer Özellikler|
-|5||Proje Sunumu Nasıl Yapılmalı?|
+|3||Github
+|4||Proje Ön Değerlendirme|
+|5||Proje Bugfix|
+|6||Proje Sunumuları|
 
-## **Git 201**
+# **Ders Projesi Nasıl Olacak?**
 
-### **1. Git'te Dallanma**
+## **Proje**
 
-    1.1. Git'te Dal Kavramı
-    1.2. Git'te Basit Dallanma ve Birleştirme İşlemi
-    1.3. Git'te Dal Yönetimi
+Proje ekipleri kendi projesini belirleyebilir veya aşağıdaki konulardan birisini seçebilir. 
 
-### **2. Git'te Dallanma İş Akışları ve Rebasing**
+#|Proje Konusu
+-|-
+1| Blockchain
+2| Mayın Tarlası (30 * 30 ve 50 * 50)
+3| Sinema
+4| E-Öğrenme
+5| E-Ticaret
 
-    2.1. Git'te Dallanma İş Akışları
-    2.2. Git'te Uzaktaki Dallarla Çalışılması
-    2.3. Git'te Rebasing İşlemi
-
-### **3. Git'te Dağıtık Çalışmalar Yapılması**
-
-    3.1. Git'te Dağıtık İş Akışları
-    3.2. Git Kullanırken Proje'lere Katkıda Bulunmak
-    3.3. Git Kullanırken Proje'nin Devamlılığının Sağlanması
-
-### **4. Github Kullanımı**
-
-    4.1. Github'da Yer Alan Projelere Katkıda Bulunmak
-    4.2. Github'da Proje'nin Devamlılığını Sağlamak
-    4.3. Github'da Organizasyon Oluşturma ve Yönetimi
-    4.4. Github Kullanımının Özelleştirilmesi
-
-## **Git 101 - Ders Programı**
-
-| **Hafta** | **Tarih** | **Konu** |
-|-------|-------|------|
-|1||Git'te Dallanma
-|2||Git'te Dallanma İş Akışları ve Rebasing
-|3||Git'te Dağıtık Çalışmalar Yapılması|
-|4||Github Kullanımı|
-|5||Proje Sunumları|
-
-# **Proje Sunumları Nasıl Olacak?**
+ 
 
 ## **Sunum**
 
-Her çalışma grubu sırayla sahneye çıkıp `git`, `html5` ve `css3` ile geliştirdikleri proje'lerin sunumunu gerçekleştirecektir.
+Her çalışma grubu sırayla sahneye çıkıp `git`, `html5`, `javascript` ve `css3` ile geliştirdikleri proje'lerin sunumunu gerçekleştirecektir.
 
-Herbir sunum'un süresi 1 saat olacaktır.
+Herbir sunum'un süresi 45 dakika olacaktır.
 
 ## **Değerlendirme**
 
@@ -117,8 +105,8 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 |Rol|Kişi Sayısı|
 |-|-|
-|Tasarımcı|1|
-|Yazılım Geliştirici|3|
+|Danışman|1|
+|Yazılım Geliştirici|1|
 |Öğrenci|1|
 
 ## **Değerlendirme Formülü**
