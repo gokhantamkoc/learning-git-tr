@@ -65,19 +65,48 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 
 # **Ders Projesi Nasıl Olacak?**
 
+## **Proje Ekibi**
+
+Herbir proje ekibi 4 kişiden oluşacaktır. Ekipler arası bilgi alışverişi yapmasında bir sakınca yoktur.
+Yani ekipler birbiriyle kod paylaşımı yapabilir. Birbirlerine teknoloji bilgisi aktarabilir.
+
 ## **Proje**
 
-Proje ekipleri kendi projesini belirleyebilir veya aşağıdaki konulardan birisini seçebilir. 
+Proje ekipleri kendi projesini belirleyebilir veya aşağıdaki konulardan birisini seçebilir. Proje ekipleri proje çalışması sonucunda çıkacak ürünün özellikleri farklı olması şartıyla aynı konuyu seçebilir.
 
 #|Proje Konusu
 -|-
 1| Blockchain
 2| Mayın Tarlası (30 * 30 ve 50 * 50)
-3| Sinema
+3| Film, Dizi Tanıtım
 4| E-Öğrenme
 5| E-Ticaret
 
- 
+## **Proje Kapsamının Belirlenmesi**
+
+Proje kapsamı proje ekiplerine bırakılacaktır. Proje Ara Raporlarında bir Gantt Çizelgesi üzerinde planın gösterilmesi hem eğitmenin proje takibini hem de proje ekibinin iş yapışını kolaylaştıracaktır.
+
+> **Önemli Not:** Sistemlere giriş ve sisteme kayıt olma gibi özellikler proje ekibinin isteğine bağlıdır. Bu özellik proje ekiplerinden talep edilmemektedir.
+
+## **Proje Ekibi Sorumlulukları**
+
+Rol|Sorumlulukları
+-|-
+Takım Lideri| Kod İncelemesi ve Dokümantasyon
+Testçi| Ürün özelliklerinin Test Edilmesi ve Dokümantasyon
+Geliştirici|Ürün Özelliklerine Göre Kod Yazılması
+Geliştirici|Ürün Özelliklerine Göre Kod Yazılması
+
+## **Proje Ara Raporu**
+
+Yapılan işler hakkında bilgi verecektir. Raporda yer alması gereken bilgiler:
+
+1. Proje Tanımı
+2. Proje Ekibi Tanıtımı ve Sorumluluklar
+3. Proje Sonunda Çıkacak Ürünün Temel Özellikleri
+4. Temel Özelliklerin Durum Tablosu
+5. Kullanılan Teknolojiler
+6. Kullanılan Git İş Akışı ()
 
 ## **Sunum**
 
