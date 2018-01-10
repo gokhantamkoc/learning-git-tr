@@ -150,10 +150,10 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 ## **Eğitmen'in Sunumdan Beklentileri**
 
-- Sunum için Powerpoint vs. ile hazırlanan doküman okunabilir olmalıdır. 
+- Sunum için Powerpoint vs. ile hazırlanan doküman okunabilir olmalı. 
 - Sunum giriş, gelişme ve sonuç bölümlerinden oluşmalı.
 - Sunum sırasında çalışma grubunun tüm elemanları konuşma yapmalı.
-- Sunum sırasında grubun bu projeyi severek yaptığını göstermeli
+- Sunum sırasında grubun bu projeyi severek yaptığını göstermeli.
 
 # **Ders Sonunda Neler Kazanmış Olacaksınız?**
 
