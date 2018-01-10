@@ -23,8 +23,8 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
     1.2. Git Kurulumu nasıl yapılır?
     1.3. Git Ortamının Hazırlanması
     1.4. Git'te Proje/Depo Oluşturma
-    1.6. Agile/Scrum Temelleri
-    1.7. Ders Projesi(*)
+    1.5. Agile/Scrum Temelleri
+    1.6. Ders Projesi(*)
 
 ## **2. Git'te Proje Oluşturma ve Değişiklik Takibi**
 
@@ -106,7 +106,9 @@ Yapılan işler hakkında bilgi verecektir. Raporda yer alması gereken bilgiler
 3. Proje Sonunda Çıkacak Ürünün Temel Özellikleri
 4. Temel Özelliklerin Durum Tablosu
 5. Kullanılan Teknolojiler
-6. Kullanılan Git İş Akışı ()
+6. Kullanılan Git İş Akışı
+
+> **Önemli Not:** Derste anlatılan Git İş Akışlarından farklı iş akışları oluşturulabilir.
 
 ## **Sunum**
 
