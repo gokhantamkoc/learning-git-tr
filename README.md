@@ -56,12 +56,12 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 
 | **Hafta** | **Tarih** | **Konu** |
 |-------|-------|------|
-|1||Git'e Giriş
-|2||Git'te Proje Oluşturma ve Değişiklik Takibi
-|3||Github
-|4||Proje Ön Değerlendirme|
-|5||Proje Bugfix|
-|6||Proje Sunumuları|
+|1|24.02.2018 - 25.02.2018|Git'e Giriş
+|2|02.03.2018 - 03.03.2018|Git'te Proje Oluşturma ve Değişiklik Takibi
+|3|09.03.2018 - 10.03.2018|Github
+|4|16.03.2018 - 17.03.2018|Proje - Ön Değerlendirme
+|5|23.03.2018 - 24.03.2018|Proje - Bugfix
+|6|31.03.2018 - 01.04.2018|Proje - Sunumuları
 
 # **Ders Projesi Nasıl Olacak?**
 
