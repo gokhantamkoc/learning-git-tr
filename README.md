@@ -67,7 +67,7 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 
 ## **Proje Ekibi**
 
-Herbir proje ekibi 4 kişiden oluşacaktır. Ekipler arası bilgi alışverişi yapmasında bir sakınca yoktur.
+Herbir proje ekibi 5 kişiden oluşacaktır. Ekipler arası bilgi alışverişi yapmasında bir sakınca yoktur.
 Yani ekipler birbiriyle kod paylaşımı yapabilir. Birbirlerine teknoloji bilgisi aktarabilir.
 
 ## **Proje**
