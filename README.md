@@ -26,7 +26,7 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
     1.5. Agile/Scrum Temelleri
     1.6. Ders Projesi(*)
 
-## **2. Git'te Proje Oluşturma ve Değişiklik Takibi**
+## **2. Git'te Değişiklik Takibi**
 
     2.1. Git'te Değişikliklerin Depo'ya Kayıt Edilmesi, Değişiklik Tarihçesi ve Değişikliklerin Geri Alınması
     2.2. Git'te Uzaktaki Depo'lar ile Çalışılması
@@ -57,7 +57,7 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 | **Hafta** | **Tarih** | **Konu** |
 |-------|-------|------|
 |1|24.02.2018 - 25.02.2018|Git'e Giriş
-|2|02.03.2018 - 03.03.2018|Git'te Proje Oluşturma ve Değişiklik Takibi
+|2|02.03.2018 - 03.03.2018|Git'te Değişiklik Takibi
 |3|09.03.2018 - 10.03.2018|Github
 |4|16.03.2018 - 17.03.2018|Proje - Ön Değerlendirme
 |5|23.03.2018 - 24.03.2018|Proje - Bugfix
