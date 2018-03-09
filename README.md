@@ -97,16 +97,18 @@ Testçi| Ürün özelliklerinin Test Edilmesi ve Dokümantasyon
 Geliştirici|Ürün Özelliklerine Göre Kod Yazılması
 Geliştirici|Ürün Özelliklerine Göre Kod Yazılması
 
-## **Proje Ara Raporu**
+## **Proje Ara Raporu I**
 
 Yapılan işler hakkında bilgi verecektir. Raporda yer alması gereken bilgiler:
 
 1. Proje Tanımı
 2. Proje Ekibi Tanıtımı ve Sorumluluklar
 3. Proje Sonunda Çıkacak Ürünün Temel Özellikleri
-4. Temel Özelliklerin Durum Tablosu
-5. Kullanılan Teknolojiler
-6. Kullanılan Git İş Akışı
+
+## **Proje Ara Raporu II**
+
+1. Temel Özelliklerin Durum Tablosu
+2. Kullanılan Teknolojiler
 
 > **Önemli Not:** Derste anlatılan Git İş Akışlarından farklı iş akışları oluşturulabilir.
 
@@ -115,6 +117,8 @@ Yapılan işler hakkında bilgi verecektir. Raporda yer alması gereken bilgiler
 Her çalışma grubu sırayla sahneye çıkıp `git`, `html5`, `javascript` ve `css3` ile geliştirdikleri proje'lerin sunumunu gerçekleştirecektir.
 
 Herbir sunum'un süresi 45 dakika olacaktır.
+
+Sunum'da ürünün tanıtımı, ekibin tanıtımı ve projede kullanılan git akışı olmalıdır.
 
 ## **Değerlendirme**
 
