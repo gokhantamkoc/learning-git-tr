@@ -145,7 +145,7 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 ## **Değerlendirme Formülü**
 
-> *Sunum Puanı = İzleyici Değerlendirme Puanı * 0.45 + Jüri Değerlendirme Puanı * 0.55*
+> *Sunum Puanı = İzleyici Değerlendirme Puanı * 0.25 + Jüri Değerlendirme Puanı * 0.75
 
 ## **Ödül**
 
