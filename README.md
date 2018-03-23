@@ -57,11 +57,10 @@ Derste github'ın kullanımını ve dünya'nın dört bir yanındaki insanların
 | **Hafta** | **Tarih** | **Konu** |
 |-------|-------|------|
 |1|24.02.2018 - 25.02.2018|Git'e Giriş
-|2|02.03.2018 - 03.03.2018|Git'te Değişiklik Takibi
-|3|09.03.2018 - 10.03.2018|Github
-|4|16.03.2018 - 17.03.2018|Proje - Ön Değerlendirme
-|5|23.03.2018 - 24.03.2018|Proje - Bugfix
-|6|31.03.2018 - 01.04.2018|Proje - Sunumuları
+|2|03.03.2018 - 04.03.2018|Git'te Değişiklik Takibi
+|3|10.03.2018 - 11.03.2018|Github
+|4|17.03.2018 - 18.03.2018|Proje - Bugfix
+|5|24.03.2018 - 25.03.2018|Proje - Sunumuları
 
 # **Ders Projesi Nasıl Olacak?**
 
@@ -140,9 +139,9 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 |Rol|Kişi Sayısı|
 |-|-|
-|Danışman|1|
+|Firma Sahibi|1|
 |Yazılım Geliştirici|1|
-|Öğrenci|1|
+|Takım Lideri|1|
 
 ## **Değerlendirme Formülü**
 
@@ -150,7 +149,7 @@ Jüri, Bilişim sektöründeki kişilerden ve Üniversite Öğrencilerinden olu�
 
 ## **Ödül**
 
-
+Kazanan ekip Eğitmen ile beraber sinemaya gidecek. Biletler eğitmenden :-D
 
 ## **Eğitmen'in Sunumdan Beklentileri**
 
