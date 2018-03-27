@@ -185,3 +185,5 @@ Kazanan ekip Eğitmen ile beraber sinemaya gidecek. Biletler eğitmenden :-D
 |Developer 1|Ahmet Talut Taşgıran|
 |Developer 2|Sebahattin Altunay|
 |Developer 3|Pakize Nur Ateş|
+|Development Manager|Bahar Şengez|
+
