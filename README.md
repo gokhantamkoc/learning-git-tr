@@ -175,3 +175,13 @@ Kazanan ekip Eğitmen ile beraber sinemaya gidecek. Biletler eğitmenden :-D
 - 2011-2017 yılları arasında T.C. ÖSYM Başkanlığı'nda Yerli Uzman olarak çalıştı.
 - Mayıs 2017'den beri Kıdemli Yazılım Geliştirici olarak COMODO Yazılım A.Ş.'de çalışmaktadır.
 - Big Data alanında çalışmalar yapmaktadır.
+
+# **Rüya Takımı**
+
+|Görev|Ad Soyad|
+|-|-|
+|Takım Lideri|Serbay Acar|
+|Testçi|Onur Yılmaz|
+|Developer 1|Ahmet Talut Taşgıran|
+|Developer 2|Sebahattin Altunay|
+|Developer 3|Pakize Nur Ateş|
